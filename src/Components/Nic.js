@@ -1,5 +1,5 @@
 import React from 'react'
-import temp from '/Users/apple/Desktop/NSS CELL/nss_client/src/assets/vid1.mp4'
+import temp from '../assets/vid1.mp4'
 
 
 export default function Nic() {
